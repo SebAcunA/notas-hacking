@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 22 - Reversing Parte 2/06 - Picker IV.md",
+                "file": "Actividad 23 - picoCTF Reversing - Parte 3/03 - asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Picker IV"
+              "title": "03 - asm3"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actividad 22 - Reversing Parte 2/06 - Picker IV.md",
+                "file": "Actividad 22 - Reversing Parte 2/01 - Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 06 - Picker IV"
+              "title": "Enlaces entrantes de 01 - Safe Opener 2"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actividad 22 - Reversing Parte 2/06 - Picker IV.md",
+                "file": "Actividad 22 - Reversing Parte 2/01 - Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 06 - Picker IV"
+              "title": "Enlaces salientes de 01 - Safe Opener 2"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actividad 22 - Reversing Parte 2/06 - Picker IV.md",
+                "file": "Actividad 22 - Reversing Parte 2/01 - Safe Opener 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 06 - Picker IV"
+              "title": "Esquema de 01 - Safe Opener 2"
             }
           }
         ]
@@ -185,9 +185,16 @@
   },
   "active": "28454de0172f764b",
   "lastOpenFiles": [
-    "Actividad 22 - Reversing Parte 2/05 - Picker III.md",
-    "Actividad 22 - Reversing Parte 2/04 - Picker II.md",
+    "AUXILIAR - COPIAR Y PEGAR.md",
+    "Actividad 23 - picoCTF Reversing - Parte 3/03 - asm3.md",
+    "Actividad 23 - picoCTF Reversing - Parte 3/02 - asm2.md",
+    "Actividad 23 - picoCTF Reversing - Parte 3/01 - asm1.md",
+    "Actividad 22 - Reversing Parte 2/01 - Safe Opener 2.md",
+    "Actividad 23 - picoCTF Reversing - Parte 3",
+    "Actividad 22 - Reversing Parte 2/02 - timer.md",
     "Actividad 22 - Reversing Parte 2/03 - Picker I.md",
-    "Actividad 22 - Reversing Parte 2/02 - timer.md"
+    "Actividad 22 - Reversing Parte 2/04 - Picker II.md",
+    "Actividad 22 - Reversing Parte 2/05 - Picker III.md",
+    "Actividad 22 - Reversing Parte 2/06 - Picker IV.md"
   ]
 }
